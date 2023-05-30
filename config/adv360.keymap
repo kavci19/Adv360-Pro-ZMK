@@ -77,7 +77,7 @@
             >;
         };
 
-        layer_Layer__4 {
+        layer_symbol {
             bindings = <
  &trans  &trans  &trans  &trans  &trans  &trans            &trans                                                  &trans         &trans                &trans                 &trans            &trans        &trans  &trans
  &trans  &trans  &trans  &trans  &trans  &trans            &trans                                                  &trans  &kp AMPERSAND  &kp LEFT_PARENTHESIS  &kp RIGHT_PARENTHESIS    &kp UNDERSCORE      &kp PLUS  &trans
@@ -87,7 +87,7 @@
             >;
         };
 
-        layer_Layer__5 {
+        layer_nav {
             bindings = <
  &trans  &trans  &trans  &trans  &trans  &trans            &trans                                                  &trans  &trans          &trans           &trans        &trans          &trans  &trans
  &trans  &trans  &trans  &trans  &trans  &trans            &trans                                                  &trans  &trans           &none           &trans        &trans          &trans  &trans
