@@ -43,9 +43,9 @@
        "&trans", "&trans", "&trans", "&trans", "&trans",                     "&trans", "&trans", "&trans",                     "&trans", "&trans", "&trans",                              "&kp HASH",           "&kp PERCENT", "&kp LEFT_BRACKET",       "&trans", "&trans"
     ], [
        "&trans", "&trans", "&trans", "&trans", "&trans", "&trans",           "&trans",                                                             "&trans", "&trans",         "&trans",          "&trans",       "&trans",         "&trans", "&trans",
-       "&trans", "&trans", "&trans", "&trans", "&trans", "&trans",           "&trans",                                                             "&trans", "&trans",          "&none",          "&trans",       "&trans",         "&trans", "&trans",
+       "&trans", "&trans", "&trans", "&trans", "&trans", "&trans",           "&trans",                                                             "&trans", "&trans",    "&macro_copy",    "&macro_paste",       "&trans",         "&trans", "&trans",
        "&trans", "&trans", "&trans", "&trans", "&trans", "&trans",           "&trans", "&trans", "&trans", "&trans", "&trans", "&trans", "&trans", "&trans", "&trans", "&kp LEFT_ARROW", "&kp RIGHT_ARROW", "&kp UP_ARROW", "&kp DOWN_ARROW", "&trans",
-       "&trans", "&trans", "&trans", "&trans", "&trans", "&trans",           "&trans", "&trans", "&trans", "&trans", "&trans", "&trans", "&trans", "&trans", "&trans",          "&none",          "&trans",       "&trans",         "&trans", "&trans",
+       "&trans", "&trans", "&trans", "&trans", "&trans", "&trans",           "&trans", "&trans", "&trans", "&trans", "&trans", "&trans", "&trans", "&trans", "&trans",    "&macro_undo",     "&macro_redo",       "&trans",         "&trans", "&trans",
        "&trans", "&trans", "&trans", "&trans", "&trans",                     "&trans", "&trans", "&trans",                     "&trans", "&trans", "&trans",                   "&trans",          "&trans",       "&trans",         "&trans", "&trans"
     ]
   ]
