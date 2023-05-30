@@ -7,7 +7,8 @@
     "keypad",
     "fn",
     "mod",
-    "Layer #4"
+    "Layer #4",
+    "Layer #5"
   ],
   "layers": [
     [
@@ -40,6 +41,12 @@
        "&trans", "&trans", "&trans", "&trans", "&trans", "&trans",           "&trans", "&trans", "&trans", "&trans", "&trans", "&trans", "&trans", "&trans",      "&kp PIPE",           "&kp DOLLAR",             "&kp EQUAL",  "&kp EXCLAMATION", "&macro_arrow", "&trans",
        "&trans", "&trans", "&trans", "&trans", "&trans", "&trans",           "&trans", "&trans", "&trans", "&trans", "&trans", "&trans", "&trans", "&trans",  "&macro_arrow",       "&kp LEFT_BRACE",       "&kp RIGHT_BRACE",      "&kp AT_SIGN",    "&kp MINUS", "&trans",
        "&trans", "&trans", "&trans", "&trans", "&trans",                     "&trans", "&trans", "&trans",                     "&trans", "&trans", "&trans",                              "&kp HASH",           "&kp PERCENT", "&kp LEFT_BRACKET",       "&trans", "&trans"
+    ], [
+       "&trans", "&trans", "&trans", "&trans", "&trans", "&trans",           "&trans",                                                             "&trans", "&trans",         "&trans",          "&trans",       "&trans",         "&trans", "&trans",
+       "&trans", "&trans", "&trans", "&trans", "&trans", "&trans",           "&trans",                                                             "&trans", "&trans",          "&none",          "&trans",       "&trans",         "&trans", "&trans",
+       "&trans", "&trans", "&trans", "&trans", "&trans", "&trans",           "&trans", "&trans", "&trans", "&trans", "&trans", "&trans", "&trans", "&trans", "&trans", "&kp LEFT_ARROW", "&kp RIGHT_ARROW", "&kp UP_ARROW", "&kp DOWN_ARROW", "&trans",
+       "&trans", "&trans", "&trans", "&trans", "&trans", "&trans",           "&trans", "&trans", "&trans", "&trans", "&trans", "&trans", "&trans", "&trans", "&trans",          "&none",          "&trans",       "&trans",         "&trans", "&trans",
+       "&trans", "&trans", "&trans", "&trans", "&trans",                     "&trans", "&trans", "&trans",                     "&trans", "&trans", "&trans",                   "&trans",          "&trans",       "&trans",         "&trans", "&trans"
     ]
   ]
 }
