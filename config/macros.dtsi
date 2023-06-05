@@ -1,9 +1,3 @@
-macro_pwd: macro_pwd{
-compatible = "zmk,behavior-macro";
-label = "macro_pwd";
-#binding-cells = <0>;
-bindings = ;
-};
 macro_pal: macro_pal{
 compatible = "zmk,behavior-macro";
 label = "macro_pal";
