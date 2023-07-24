@@ -40,8 +40,8 @@
     ], [
        "&trans", "&trans", "&trans", "&trans", "&trans", "&trans",           "&trans",                                                             "&trans",        "&trans",               "&trans",                "&trans",         "&trans", "&trans", "&trans",
        "&trans", "&trans", "&trans", "&trans", "&trans", "&trans",           "&trans",                                                             "&trans", "&kp AMPERSAND", "&kp LEFT_PARENTHESIS", "&kp RIGHT_PARENTHESIS", "&kp UNDERSCORE",  "&kp A", "&trans",
-       "&trans", "&trans", "&trans", "&trans", "&trans", "&trans",           "&trans", "&trans", "&trans", "&trans", "&trans", "&trans", "&trans", "&trans",      "&kp PIPE",           "&kp DOLLAR",           "&kp PERCENT",      "&kp CARET",  "&kp A", "&trans",
-       "&trans", "&trans", "&trans", "&trans", "&trans", "&trans",           "&trans", "&trans", "&trans", "&trans", "&trans", "&trans", "&trans", "&trans",  "&macro_arrow",       "&kp LEFT_BRACE",       "&kp RIGHT_BRACE",    "&kp AT_SIGN",  "&kp A", "&trans",
+       "&trans", "&trans", "&trans", "&trans", "&trans", "&trans",           "&trans", "&trans", "&trans", "&trans", "&trans", "&trans", "&trans", "&trans",      "&kp PIPE",       "&kp LEFT_BRACE",       "&kp RIGHT_BRACE",      "&kp CARET",  "&kp A", "&trans",
+       "&trans", "&trans", "&trans", "&trans", "&trans", "&trans",           "&trans", "&trans", "&trans", "&trans", "&trans", "&trans", "&trans", "&trans",  "&macro_arrow",     "&kp LEFT_BRACKET",     "&kp RIGHT_BRACKET",    "&kp AT_SIGN",  "&kp A", "&trans",
        "&trans", "&trans", "&trans", "&trans", "&trans",                     "&trans", "&trans", "&trans",                     "&trans", "&trans", "&trans",                                 "&kp A",                 "&kp A",          "&kp A", "&trans", "&trans"
     ], [
        "&trans", "&trans", "&trans", "&trans", "&trans", "&trans",           "&trans",                                                             "&trans", "&trans",         "&trans",          "&trans",        "&trans",         "&trans", "&trans",
@@ -51,16 +51,16 @@
        "&trans", "&trans", "&trans", "&trans", "&trans",                     "&trans", "&trans", "&trans",                     "&trans", "&trans", "&trans",                   "&trans",          "&trans",        "&trans",         "&trans", "&trans"
     ], [
        "&trans", "&trans", "&trans", "&trans", "&trans", "&trans",           "&trans",                                                             "&trans",       "&trans",       "&trans",       "&trans",       "&trans",       "&trans", "&trans",
-       "&trans", "&trans", "&trans", "&trans", "&trans", "&trans",           "&trans",                                                             "&trans",       "&trans", "&kp NUMBER_1", "&kp NUMBER_2", "&kp NUMBER_3",       "&trans", "&trans",
-       "&trans", "&trans", "&trans", "&trans", "&trans", "&trans",           "&trans", "&trans", "&trans", "&trans", "&trans", "&trans", "&trans", "&trans", "&kp NUMBER_0", "&kp NUMBER_4", "&kp NUMBER_5", "&kp NUMBER_6", "&kp NUMBER_0", "&trans",
-       "&trans", "&trans", "&trans", "&trans", "&trans", "&trans",           "&trans", "&trans", "&trans", "&trans", "&trans", "&trans", "&trans", "&trans",       "&trans", "&kp NUMBER_7", "&kp NUMBER_8", "&kp NUMBER_9",       "&trans", "&trans",
+       "&trans", "&trans", "&trans", "&trans", "&trans", "&trans",           "&trans",                                                             "&trans", "&kp NUMBER_0", "&kp NUMBER_1", "&kp NUMBER_2", "&kp NUMBER_3",       "&trans", "&trans",
+       "&trans", "&trans", "&trans", "&trans", "&trans", "&trans",           "&trans", "&trans", "&trans", "&trans", "&trans", "&trans", "&trans", "&trans", "&kp NUMBER_4", "&kp NUMBER_5", "&kp NUMBER_6", "&kp NUMBER_7", "&kp NUMBER_0", "&trans",
+       "&trans", "&trans", "&trans", "&trans", "&trans", "&trans",           "&trans", "&trans", "&trans", "&trans", "&trans", "&trans", "&trans", "&trans", "&kp NUMBER_8", "&kp NUMBER_9",     "&kp PLUS",    "&kp MINUS",       "&trans", "&trans",
        "&trans", "&trans", "&trans", "&trans", "&trans",                     "&trans", "&trans", "&trans",                     "&trans", "&trans", "&trans",                       "&trans",       "&trans",       "&trans",       "&trans", "&trans"
     ], [
-       "&trans", "&trans", "&trans", "&trans", "&trans", "&trans",           "&trans",                                                             "&trans",           "&trans",           "&trans",            "&trans",            "&trans", "&trans", "&trans",
-       "&trans", "&trans", "&trans", "&trans", "&trans", "&trans",           "&trans",                                                             "&trans",    "&kp LESS_THAN",     "&kp ASTERISK",         "&kp SLASH",          "&kp EXCL", "&trans", "&trans",
-       "&trans", "&trans", "&trans", "&trans", "&trans", "&trans",           "&trans", "&trans", "&trans", "&trans", "&trans", "&trans", "&trans", "&trans", "&kp GREATER_THAN",        "&kp EQUAL",          "&kp PLUS",         "&kp MINUS", "&trans", "&trans",
-       "&trans", "&trans", "&trans", "&trans", "&trans", "&trans",           "&trans", "&trans", "&trans", "&trans", "&trans", "&trans", "&trans", "&trans",   "&kp UNDERSCORE", "&kp LEFT_BRACKET", "&kp RIGHT_BRACKET", "&kp DOUBLE_QUOTES", "&trans", "&trans",
-       "&trans", "&trans", "&trans", "&trans", "&trans",                     "&trans", "&trans", "&trans",                     "&trans", "&trans", "&trans",                               "&trans",            "&trans",            "&trans", "&trans", "&trans"
+       "&trans", "&trans", "&trans", "&trans", "&trans", "&trans",           "&trans",                                                             "&trans",           "&trans",       "&trans",      "&trans",            "&trans", "&trans", "&trans",
+       "&trans", "&trans", "&trans", "&trans", "&trans", "&trans",           "&trans",                                                             "&trans",    "&kp LESS_THAN",   "&kp DOLLAR", "&kp PERCENT",          "&kp EXCL", "&trans", "&trans",
+       "&trans", "&trans", "&trans", "&trans", "&trans", "&trans",           "&trans", "&trans", "&trans", "&trans", "&trans", "&trans", "&trans", "&trans", "&kp GREATER_THAN",    "&kp EQUAL",    "&kp PLUS",         "&kp MINUS", "&trans", "&trans",
+       "&trans", "&trans", "&trans", "&trans", "&trans", "&trans",           "&trans", "&trans", "&trans", "&trans", "&trans", "&trans", "&trans", "&trans",   "&kp UNDERSCORE", "&kp ASTERISK",   "&kp SLASH", "&kp DOUBLE_QUOTES", "&trans", "&trans",
+       "&trans", "&trans", "&trans", "&trans", "&trans",                     "&trans", "&trans", "&trans",                     "&trans", "&trans", "&trans",                           "&trans",      "&trans",            "&trans", "&trans", "&trans"
     ]
   ]
 }
