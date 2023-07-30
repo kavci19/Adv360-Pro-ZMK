@@ -79,11 +79,11 @@
 
         layer_symbol {
             bindings = <
- &trans  &trans  &trans  &trans  &trans  &trans            &trans                                                  &trans         &trans                &trans                 &trans          &trans  &trans  &trans
- &trans  &trans  &trans  &trans  &trans  &trans            &trans                                                  &trans  &kp AMPERSAND  &kp LEFT_PARENTHESIS  &kp RIGHT_PARENTHESIS  &kp UNDERSCORE   &kp A  &trans
- &trans  &trans  &trans  &trans  &trans  &trans            &trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans       &kp PIPE        &kp LEFT_BRACE        &kp RIGHT_BRACE       &kp CARET   &kp A  &trans
- &trans  &trans  &trans  &trans  &trans  &trans            &trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans   &macro_arrow      &kp LEFT_BRACKET      &kp RIGHT_BRACKET     &kp AT_SIGN   &kp A  &trans
- &trans  &trans  &trans  &trans  &trans                    &trans  &trans  &trans                  &trans  &trans  &trans                                &kp A                  &kp A           &kp A  &trans  &trans
+ &trans  &trans  &trans  &trans  &trans  &trans            &trans                                                  &trans             &trans                &trans                 &trans          &trans  &trans  &trans
+ &trans  &trans  &trans  &trans  &trans  &trans            &trans                                                  &trans   &kp SINGLE_QUOTE  &kp LEFT_PARENTHESIS  &kp RIGHT_PARENTHESIS  &kp UNDERSCORE   &kp A  &trans
+ &trans  &trans  &trans  &trans  &trans  &trans            &trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans       &macro_arrow        &kp LEFT_BRACE        &kp RIGHT_BRACE       &kp CARET   &kp A  &trans
+ &trans  &trans  &trans  &trans  &trans  &trans            &trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans  &kp DOUBLE_QUOTES      &kp LEFT_BRACKET      &kp RIGHT_BRACKET     &kp AT_SIGN   &kp A  &trans
+ &trans  &trans  &trans  &trans  &trans                    &trans  &trans  &trans                  &trans  &trans  &trans                                    &kp A                  &kp A           &kp A  &trans  &trans
             >;
         };
 
@@ -109,11 +109,11 @@
 
         layer_symbol2 {
             bindings = <
- &trans  &trans  &trans  &trans  &trans  &trans            &trans                                                  &trans          &trans         &trans        &trans             &trans  &trans  &trans
- &trans  &trans  &trans  &trans  &trans  &trans            &trans                                                  &trans       &kp COLON  &kp SEMICOLON   &kp PERCENT           &kp EXCL  &trans  &trans
- &trans  &trans  &trans  &trans  &trans  &trans            &trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans       &kp EQUAL     &kp DOLLAR  &kp QUESTION             &kp AT  &trans  &trans
- &trans  &trans  &trans  &trans  &trans  &trans            &trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans  &kp UNDERSCORE   &kp ASTERISK     &kp SLASH  &kp DOUBLE_QUOTES  &trans  &trans
- &trans  &trans  &trans  &trans  &trans                    &trans  &trans  &trans                  &trans  &trans  &trans                         &trans        &trans             &trans  &trans  &trans
+ &trans  &trans  &trans  &trans  &trans  &trans            &trans                                                  &trans            &trans        &trans       &trans             &trans  &trans  &trans
+ &trans  &trans  &trans  &trans  &trans  &trans            &trans                                                  &trans     &kp LESS_THAN    &kp DOLLAR  &kp PERCENT           &kp EXCL  &trans  &trans
+ &trans  &trans  &trans  &trans  &trans  &trans            &trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans  &kp GREATER_THAN     &kp EQUAL     &kp PLUS          &kp MINUS  &trans  &trans
+ &trans  &trans  &trans  &trans  &trans  &trans            &trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans    &kp UNDERSCORE  &kp ASTERISK    &kp SLASH  &kp DOUBLE_QUOTES  &trans  &trans
+ &trans  &trans  &trans  &trans  &trans                    &trans  &trans  &trans                  &trans  &trans  &trans                          &trans       &trans             &trans  &trans  &trans
             >;
         };
 
