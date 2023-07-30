@@ -39,9 +39,9 @@
         "&none",        "&none",        "&none",   "&bl BL_INC",   "&bl BL_DEC",                                  "&rgb_ug RGB_TOG", "&bl BL_TOG",  "&none",                          "&none", "&bl BL_TOG",        "&rgb_ug RGB_TOG",                   "&bl BL_INC",   "&bl BL_DEC",        "&none",        "&none",  "&none"
     ], [
        "&trans", "&trans", "&trans", "&trans", "&trans", "&trans",           "&trans",                                                             "&trans",            "&trans",               "&trans",                "&trans",    "&trans", "&trans", "&trans",
-       "&trans", "&trans", "&trans", "&trans", "&trans", "&trans",           "&trans",                                                             "&trans",  "&kp SINGLE_QUOTE", "&kp LEFT_PARENTHESIS", "&kp RIGHT_PARENTHESIS",     "&kp A",  "&kp A", "&trans",
+       "&trans", "&trans", "&trans", "&trans", "&trans", "&trans",           "&trans",                                                             "&trans",  "&kp SINGLE_QUOTE", "&kp LEFT_PARENTHESIS", "&kp RIGHT_PARENTHESIS",  "&kp PLUS",  "&kp A", "&trans",
        "&trans", "&trans", "&trans", "&trans", "&trans", "&trans",           "&trans", "&trans", "&trans", "&trans", "&trans", "&trans", "&trans", "&trans",      "&macro_arrow",       "&kp LEFT_BRACE",       "&kp RIGHT_BRACE", "&kp CARET",  "&kp A", "&trans",
-       "&trans", "&trans", "&trans", "&trans", "&trans", "&trans",           "&trans", "&trans", "&trans", "&trans", "&trans", "&trans", "&trans", "&trans", "&kp DOUBLE_QUOTES",     "&kp LEFT_BRACKET",     "&kp RIGHT_BRACKET",     "&kp A",  "&kp A", "&trans",
+       "&trans", "&trans", "&trans", "&trans", "&trans", "&trans",           "&trans", "&trans", "&trans", "&trans", "&trans", "&trans", "&trans", "&trans", "&kp DOUBLE_QUOTES",     "&kp LEFT_BRACKET",     "&kp RIGHT_BRACKET", "&kp MINUS",  "&kp A", "&trans",
        "&trans", "&trans", "&trans", "&trans", "&trans",                     "&trans", "&trans", "&trans",                     "&trans", "&trans", "&trans",                                     "&kp A",                 "&kp A",     "&kp A", "&trans", "&trans"
     ], [
        "&trans", "&trans", "&trans", "&trans", "&trans", "&trans",           "&trans",                                                             "&trans", "&trans",         "&trans",          "&trans",        "&trans",         "&trans", "&trans",
@@ -56,11 +56,11 @@
        "&trans", "&trans", "&trans", "&trans", "&trans", "&trans",           "&trans", "&trans", "&trans", "&trans", "&trans", "&trans", "&trans", "&trans", "&kp NUMBER_8", "&kp NUMBER_9",     "&kp PLUS",    "&kp MINUS",       "&trans", "&trans",
        "&trans", "&trans", "&trans", "&trans", "&trans",                     "&trans", "&trans", "&trans",                     "&trans", "&trans", "&trans",                       "&trans",       "&trans",       "&trans",       "&trans", "&trans"
     ], [
-       "&trans", "&trans", "&trans", "&trans", "&trans", "&trans",           "&trans",                                                             "&trans",         "&trans",        "&trans",       "&trans",      "&trans", "&trans", "&trans",
-       "&trans", "&trans", "&trans", "&trans", "&trans", "&trans",           "&trans",                                                             "&trans",      "&kp COLON", "&kp SEMICOLON",  "&kp PERCENT",    "&kp EXCL", "&trans", "&trans",
-       "&trans", "&trans", "&trans", "&trans", "&trans", "&trans",           "&trans", "&trans", "&trans", "&trans", "&trans", "&trans", "&trans", "&trans",      "&kp EQUAL",    "&kp DOLLAR", "&kp QUESTION", "&kp AT_SIGN", "&trans", "&trans",
-       "&trans", "&trans", "&trans", "&trans", "&trans", "&trans",           "&trans", "&trans", "&trans", "&trans", "&trans", "&trans", "&trans", "&trans", "&kp UNDERSCORE",  "&kp ASTERISK",    "&kp SLASH",       "&kp A", "&trans", "&trans",
-       "&trans", "&trans", "&trans", "&trans", "&trans",                     "&trans", "&trans", "&trans",                     "&trans", "&trans", "&trans",                          "&trans",       "&trans",      "&trans", "&trans", "&trans"
+       "&trans", "&trans", "&trans", "&trans", "&trans", "&trans",           "&trans",                                                             "&trans",         "&trans",        "&trans",       "&trans",       "&trans", "&trans", "&trans",
+       "&trans", "&trans", "&trans", "&trans", "&trans", "&trans",           "&trans",                                                             "&trans",      "&kp COLON", "&kp SEMICOLON",  "&kp PERCENT",     "&kp EXCL", "&trans", "&trans",
+       "&trans", "&trans", "&trans", "&trans", "&trans", "&trans",           "&trans", "&trans", "&trans", "&trans", "&trans", "&trans", "&trans", "&trans",      "&kp EQUAL",    "&kp DOLLAR", "&kp QUESTION",  "&kp AT_SIGN", "&trans", "&trans",
+       "&trans", "&trans", "&trans", "&trans", "&trans", "&trans",           "&trans", "&trans", "&trans", "&trans", "&trans", "&trans", "&trans", "&trans", "&kp UNDERSCORE",  "&kp ASTERISK",    "&kp SLASH", "&kp ASTERISK", "&trans", "&trans",
+       "&trans", "&trans", "&trans", "&trans", "&trans",                     "&trans", "&trans", "&trans",                     "&trans", "&trans", "&trans",                          "&trans",       "&trans",       "&trans", "&trans", "&trans"
     ]
   ]
 }
