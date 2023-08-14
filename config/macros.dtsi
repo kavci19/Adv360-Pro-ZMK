@@ -2,7 +2,7 @@ macro_next: macro_next{
 compatible = "zmk,behavior-macro";
 label = "macro_next";
 #binding-cells = <0>;
-bindings = <&macro_press &kp LALT>, <&macro_tap &kp ESC>, <&macro_release &kp LALT>; 
+bindings = <&macro_press &kp LALT>, <&macro_tap &kp TAB>, <&macro_release &kp LALT>; 
 };
 macro_n: macro_n{
 compatible = "zmk,behavior-macro";
