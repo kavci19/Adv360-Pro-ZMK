@@ -1,3 +1,21 @@
+macro_next: macro_next{
+compatible = "zmk,behavior-macro";
+label = "macro_next";
+#binding-cells = <0>;
+bindings = <&macro_press &kp LALT>, <&macro_tap &kp ESC>, <&macro_release &kp LALT>; 
+};
+macro_n: macro_n{
+compatible = "zmk,behavior-macro";
+label = "macro_n";
+#binding-cells = <0>;
+bindings = <&macro_press &kp LCTRL>, <&macro_tap &kp PG_DN>, <&macro_release &kp LCTRL>; 
+};
+macro_d: macro_d{
+compatible = "zmk,behavior-macro";
+label = "macro_d";
+#binding-cells = <0>;
+bindings = <&macro_press &kp LCTRL>, <&macro_tap &kp PG_UP>, <&macro_release &kp LCTRL>; 
+};
 macro_pal: macro_pal{
 compatible = "zmk,behavior-macro";
 label = "macro_pal";
@@ -8,7 +26,7 @@ macro_talk: macro_talk{
 compatible = "zmk,behavior-macro";
 label = "macro_talk";
 #binding-cells = <0>;
-bindings = <&kp RIGHT_WIN>, <&kp H>;
+bindings = <&macro_press &kp RIGHT_WIN>, <&macro_tap &kp H>, <&macro_release &kp RIGHT_WIN>;
 };
 macro_redo: macro_redo{
 compatible = "zmk,behavior-macro";
