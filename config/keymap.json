@@ -10,7 +10,8 @@
     "symbol",
     "nav",
     "num",
-    "symbol2"
+    "symbol2",
+    "layer_fn2"
   ],
   "layers": [
     [
@@ -61,6 +62,12 @@
        "&trans", "&trans", "&trans", "&trans", "&trans", "&trans",           "&trans", "&trans", "&trans", "&trans", "&trans", "&trans", "&trans", "&trans",      "&kp EQUAL",    "&kp DOLLAR", "&kp QUESTION",  "&kp AT_SIGN",      "&kp PIPE", "&trans",
        "&trans", "&trans", "&trans", "&trans", "&trans", "&trans",           "&trans", "&trans", "&trans", "&trans", "&trans", "&trans", "&trans", "&trans", "&kp UNDERSCORE",  "&kp ASTERISK",    "&kp SLASH", "&kp ASTERISK",        "&trans", "&trans",
        "&trans", "&trans", "&trans", "&trans", "&trans",                     "&trans", "&trans", "&trans",                     "&trans", "&trans", "&trans",                          "&trans",       "&trans",       "&trans",        "&trans", "&trans"
-    ]
+    ], [
+    "&trans", "&trans", "&trans", "&trans", "&trans", "&trans", "&trans", "&trans", "&trans", "&trans", "&trans", "&trans", "&trans", "&trans",
+    "&trans", "&kp F1", "&kp F2", "&kp F3", "&kp F4", "&kp F5", "&trans", "&trans", "&trans", "&trans", "&trans", "&trans", "&trans", "&trans",
+    "&trans", "&kp F6", "&kp F7", "&kp F8", "&kp F9", "&kp F10", "&trans", "&trans", "&trans", "&trans", "&trans", "&trans", "&trans", "&trans",
+    "&trans", "&kp F11", "&kp F12", "&kp F13", "&kp F14", "&kp F15", "&trans", "&trans", "&trans", "&trans", "&trans", "&trans", "&trans", "&trans",
+    "&trans", "&trans", "&trans", "&trans", "&trans", "&trans", "&trans", "&trans", "&trans", "&trans", "&trans", "&trans", "&trans", "&trans"
+]
   ]
 }
